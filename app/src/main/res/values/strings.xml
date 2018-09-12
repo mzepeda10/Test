@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_password2">Repita Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aqui</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="expedienteCard">Epedientes</string>
+    <string name="date_card">Fecha de Registro:</string>
+    <string name="name_card">Nombre:</string>
+    <string name="tab_search">Buscar:</string>
+    <string name="tab_home">Home:</string>
+    <string name="tab_expediente">Exp:</string>
+</resources>
